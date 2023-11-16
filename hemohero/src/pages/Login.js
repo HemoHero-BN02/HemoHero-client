@@ -1,12 +1,12 @@
-import React from 'react';
-import '../css/Login.css';
+import React from "react";
+import "../css/Login.css";
 
 function Login(props) {
-    return (
-        <div>
-         <p>안녕ㅎㅎ</p>
-        </div>
-    );
+  return (
+    <div>
+      <p id="login_title">안녕ㅎㅎ</p>
+    </div>
+  );
 }
 
 export default Login;
